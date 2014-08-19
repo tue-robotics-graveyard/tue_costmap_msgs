@@ -1,0 +1,4 @@
+geometry_msgs/PointStamped[] points
+---
+PointInfo[] points_info
+
